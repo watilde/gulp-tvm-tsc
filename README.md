@@ -16,5 +16,5 @@ gulp.task('tsc', function () {
       option: '--target ES5 --removeComments'
     })).on('error', gutil.log)
     .pipe(gulp.dest('test/'))
-  });
+});
 ```
