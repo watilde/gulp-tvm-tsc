@@ -15,6 +15,6 @@ gulp.task('tsc', function () {
       version: '1.0.1', // default: latest
       option: '--target ES5 --removeComments'
     })).on('error', gutil.log)
-    .pipe(gulp.dest('test/'))
+    .pipe(gulp.dest('test/'));
 });
 ```
