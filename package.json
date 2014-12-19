@@ -1,6 +1,6 @@
 {
   "name": "gulp-tvm-tsc",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Compile TypeScript files to JavaScript with TypeScript Version Manager.",
   "main": "index.js",
   "dependencies": {
