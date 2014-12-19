@@ -9,7 +9,7 @@
     "merge": "^1.2.0",
     "temp-write": "^1.1.0",
     "through2": "^0.6.1",
-    "tvm": "^0.8.2"
+    "tvm": "*"
   },
   "devDependencies": {
     "gulp": "^3.8.8"
