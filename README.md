@@ -1,4 +1,4 @@
-gulp-tvm-tsc
+gulp-tvm-tsc [![Build Status](https://api.travis-ci.org/watilde/gulp-tvm-tsc.svg)](https://travis-ci.org/watilde/gulp-tvm-tsc) [![Dependency Status](https://gemnasium.com/watilde/gulp-tvm-tsc.svg)](https://gemnasium.com/watilde/gulp-tvm-tsc)
 ============
 
 Compile TypeScript files to JavaScript with TypeScript Version Manager.
